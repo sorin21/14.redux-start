@@ -1,0 +1,4 @@
+1. npm i --save redux
+
+2. To connect React to Redux we need
+npm i --save react-redux
